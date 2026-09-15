@@ -5,7 +5,7 @@
 #   name: Aisha Nurlanqyzy     <- correct
 #   name:Aisha Nurlanqyzy      <- broken
 
-name: Me          # your full name, as in the student system
+name:Me          # your full name, as in the student system
 github:nanoint        # your GitHub username, lowercase, no @
 group: A                        # A = practice at 12:30, B = practice at 13:30
 os: windows                     # windows, macos or linux - the laptop you will work on
